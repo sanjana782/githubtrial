@@ -1,2 +1,2 @@
 # githubtrial
-This is a test repository
+This is a test repository to tell users how github works
